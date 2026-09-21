@@ -4,8 +4,8 @@ A Tableau story built from CDC and Delaware overdose death data, walking through
 
 ## Files
 
-- **Week_7_Tableau_Assignment_-_Christine_Trujillo.twbx** - the packaged Tableau workbook. Contains the full story, all dashboard sheets, and the underlying data extracts, opens directly in Tableau (Public or Desktop) with no separate data files needed.
-- **Week_7_Tableau_Assignment_-_Christine_Trujillo.pdf** - a static export of the story, useful for a quick look or for submitting somewhere that can't render a live Tableau file.
+- **Tableau Assignment_ChristineGriffith.twbx** - the packaged Tableau workbook. Contains the full story, all dashboard sheets, and the underlying data extracts, opens directly in Tableau (Public or Desktop) with no separate data files needed.
+- **Week 7 Tableau Assignment - Christine Griffith.pdf** - a static export of the story, useful for a quick look or for submitting somewhere that can't render a live Tableau file.
 
 ## What it contains
 
